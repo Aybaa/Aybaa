@@ -1,7 +1,7 @@
-## Hey, what's up?
+## Hey, what's up? 😁
 
-So, i'm Guilherme Rodrigues. I'm Brazilian, but i can speak and understand pretty much everything in english.
-I'm currently working on a modular and costumizable NeoVim Emulator on WEB. To do that, i'll use javaScript, that i'm learning right now.
+So, i'm Guilherme Rodrigues. I'm Brazilian, but i can speak and understand pretty much everything in english (Just don't hit me with "thy"💀).
+I'm currently working on a modular and costumizable "NeoVim Emulator" on WEB. To do that, i'll use javaScript, that's what i'm learning right now.
 I'm working on another side project actually, but i'll talk about it in another time.
 
 For anyone that is asking, i can programm in a lot of different languages. And some of them are:
