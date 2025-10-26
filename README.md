@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, what's up?
 
-<!--
-**Aybaa/Aybaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+So, i'm Guilherme Rodrigues. I'm Brazilian, but i can speak and understand pretty much everything in english.
+I'm currently working on a modular and costumizable NeoVim Emulator on WEB. To do that, i'll use javaScript, that i'm learning right now.
+I'm working on another side project actually, but i'll talk about it in another time.
 
-Here are some ideas to get you started:
+For anyone that is asking, i can programm in a lot of different languages. And some of them are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Java (Some interfaces and some simple projects)
+  - Python (Automation and Machine Learning)
+  - Lua (Automation and some other stuff)
+  - Ruby (Server CRUD and cofiguration)
+
+I love to code and i also like some RPG (I do have a System just for my campains...) and Games, but, even if these other hobbies, i'm mostly focused in coding.
+
+I have a dream, and i'm going to chase it until i reach it.
