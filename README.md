@@ -8,7 +8,7 @@ For anyone that is asking, i can programm in a lot of different languages. And s
 
 ---
 
-<h2>These are the Technologies I have worked with:</h2>
+<h2 align="center">These are the Technologies I have worked with:</h2>
 
 <br>
 
