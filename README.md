@@ -6,10 +6,19 @@ I'm working on another side project actually, but i'll talk about it in another 
 
 For anyone that is asking, i can programm in a lot of different languages. And some of them are:
 
-  - Java (Some interfaces and some simple projects)
-  - Python (Automation and Machine Learning)
-  - Lua (Automation and some other stuff)
-  - Ruby (Server CRUD and cofiguration)
+---
+
+<h2>These are the Technologies I have worked with:</h2>
+
+<br>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=lua,python,java">
+    <img src="https://skillicons.dev/icons?i=html,css,js">
+    <img src="https://skillicons.dev/icons?i=linux,mysql,julia">
+  </div>
+
+<br\>
 
 I love to code and i also like some RPG (I do have a System just for my campains...) and Games, but, even if these other hobbies, i'm mostly focused in coding.
 
