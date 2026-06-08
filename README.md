@@ -13,7 +13,7 @@ For anyone that is asking, i can programm in a lot of different languages. And s
 <br>
 
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=lua,python,java"><br>
+    <img src="https://skillicons.dev/icons?i=lua,python,java">
       <img src="https://skillicons.dev/icons?i=html,css,js">
         <img src="https://skillicons.dev/icons?i=linux,mysql,julia"><br>
   </div>
