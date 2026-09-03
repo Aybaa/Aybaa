@@ -4,11 +4,9 @@ So, i'm Guilherme Rodrigues. I'm Brazilian, but i can speak and understand prett
 I'm currently working on a modular and costumizable "NeoVim Emulator" on WEB. To do that, i'll use javaScript, that i'm learning right now.
 I'm working on another side project actually, but i'll talk about it in another time.
 
-For anyone that is asking, i can programm in a lot of different languages. And some of them are:
-
 ---
 
-<h2 align="center">These are the Technologies I have worked with:</h2>
+<h2 align="center">For anyone that's asking, I know a few programming languages. Some of them are:</h2>
 
 <br>
 
