@@ -18,6 +18,6 @@ I'm working on another side project actually, but i'll talk about it in another 
   </div>
 
 
-I love to code and i also like some RPG (I do have a System just for my campains...) and Games, but, even if these other hobbies, i'm mostly focused in coding.
+I love to code and i also like some RPG (I do have a System just for my campains...) and Games, but, even with these other hobbies, i'm mostly focused in coding.
 
 I have a dream, and i'm going to chase it until i reach it.
